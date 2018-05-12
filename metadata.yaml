@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25341'
     url: http://www.gutenberg.org/2009/agents/25341
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22470#The-Bell-Tone
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-08-31'
 gutenberg_type: Text
